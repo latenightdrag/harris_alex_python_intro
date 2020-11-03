@@ -1,1 +1,10 @@
-# harris_alex_python_intro
+# Python Intro - First Steps
+
+## Description
+
+## Usage
+
+## Author
+
+## License
+MIT
